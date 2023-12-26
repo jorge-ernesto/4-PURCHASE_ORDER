@@ -1,3 +1,9 @@
+// Notas del archivo:
+// - Secuencia de comando:
+//      - PURCHASE ORDER PRINT TEMPLATE (customscript_print_template_po	)
+// - Registro:
+//      - Orden de Compra (purchaseorder)
+
 /**
  * @NApiVersion 2.1
  * @NScriptType UserEventScript
